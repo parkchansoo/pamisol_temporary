@@ -2,7 +2,10 @@
 bin/
 include/
 pip-selfcheck.json
-was_env
+auth_venv
+venv
+venv_session
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
